@@ -4,7 +4,7 @@
 ---
 
 ## Projects
-### Project 1: [Animals Project](https://github.com/traizooo/TensorFlow/tree/main)
+### Project 1: [Animals Project](https://github.com/traizooo/TensorFlow/blob/main/Animals.ipynb)
 **Description:** The Animals Project is a machine learning model developed using TensorFlow. Its main objective is to recognize and classify different types of animals. The model is trained on a dataset containing various animal images and utilizes deep learning techniques to accurately identify the animals present in new images.
 
 ---
