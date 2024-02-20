@@ -13,13 +13,13 @@
 ---
 
 # Notebooks
-### Notebook 1: [Helper Functions Notebook](https://github.com/traizooo/TensorFlow/blob/main/helper-functions.py)
+### Notebook 1: [Helper Functions Notebook](https://github.com/traizooo/machine-learning/blob/main/helper-functions.py)
 **Description:** The Helper Functions Notebook is a collection of reusable functions that can be used in various machine learning projects and notebooks. These functions are designed to assist with common tasks such as data preprocessing, feature engineering, model evaluation, and visualization. By using the functions provided in this notebook, developers can save time and effort when working on new projects, as they can easily incorporate these helper functions into their code.
 
-### Notebook 2: [Animals Notebook](https://github.com/traizooo/TensorFlow/blob/main/Animals.ipynb)
+### Notebook 2: [Animals Notebook](https://github.com/traizooo/machine-learning/blob/main/Animals.ipynb)
 **Description:** The Animals Notebook is a Jupyter notebook developed in Google Colab. It provides a detailed analysis and implementation of the Animals Project. The notebook includes step-by-step explanations of the model's architecture, data preprocessing techniques, model training, and evaluation. Additionally, it may contain visualizations of the model's performance and examples of animal recognition.
 
-### Notebook 3: [AI / Human Detection](https://github.com/traizooo/TensorFlow/blob/main/ai-detection.ipynb)
+### Notebook 3: [AI / Human Detection](https://github.com/traizooo/machine-learning/blob/main/ai-detection.ipynb)
 **Description:** The Animals Notebook is a Jupyter notebook developed in Google Colab. It provides a detailed analysis and implementation of the AI / Human detection Project. The notebook includes step-by-step explanations of the model's architecture, data preprocessing techniques, model training, and evaluation. Additionally, it may contain visualizations of the model's performance and examples of animal recognition.
 
 ---
