@@ -8,7 +8,7 @@
 **Description:** The Animals Project is a machine learning model developed using TensorFlow. Its main objective is to recognize and classify different types of animals. The model is trained on a dataset containing various animal images and utilizes deep learning techniques to accurately identify the animals present in new images.
 
 ### Project 2: AI-generated / Human-written text detection
-***Description:** Project focuses on developing an advanced system capable of distinguishing between AI-generated and human-written text. This project aims to create a model that can accurately identify text origin. By leveraging cutting-edge machine learning and natural language processing techniques, this system will analyze textual features, patterns, and nuances that differentiate AI-created content from that written by humans. The outcome is expected to be highly beneficial for content verification, enhancing the integrity of digital information across various platforms.
+**Description:** Project focuses on developing an advanced system capable of distinguishing between AI-generated and human-written text. This project aims to create a model that can accurately identify text origin. By leveraging cutting-edge machine learning and natural language processing techniques, this system will analyze textual features, patterns, and nuances that differentiate AI-created content from that written by humans. The outcome is expected to be highly beneficial for content verification, enhancing the integrity of digital information across various platforms.
 
 ---
 
