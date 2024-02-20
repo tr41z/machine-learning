@@ -1,5 +1,5 @@
-# TensorFlow Machine Learning Repository
-### This repository contains a collection of machine learning projects and experiments developed using TensorFlow. All the code and notebooks were created using Google Colab, a cloud-based Jupyter notebook environment.
+# Machine Learning Repository
+### This repository contains a collection of machine learning projects and experiments developed using machine learning techniques. All the code and notebooks were created using Google Colab, a cloud-based Jupyter notebook environment.
 
 ---
 
