@@ -32,13 +32,3 @@ git clone `https://github.com/0mn1h4ck3d/machine-learning.git`
 ```
 
 **Or open the project or notebook of interest in Google Colab.**
-
----
-
-## Contributing
-If you would like to contribute to this repository, feel free to open a pull request. Contributions, bug fixes, and new ideas are always welcome.
-
-## Contact
-For any questions, suggestions, or inquiries, please feel free to reach out to me at michal.owsiejew23@gmail.com.
-
-## ***Happy coding!***
