@@ -13,7 +13,7 @@
 ---
 
 # Notebooks
-### Notebook 1: [Helper Functions Notebook](https://github.com/0mn1h4ck3d/machine-learning/blob/main/helper-functions.py)
+### Notebook 1: [Helper Functions Notebook](https://github.com/0mn1h4ck3d/TensorFlow/blob/main/helper-functions.py)
 **Description:** The Helper Functions Notebook is a collection of reusable functions that can be used in various machine learning projects and notebooks. These functions are designed to assist with common tasks such as data preprocessing, feature engineering, model evaluation, and visualization. By using the functions provided in this notebook, developers can save time and effort when working on new projects, as they can easily incorporate these helper functions into their code.
 
 ### Notebook 2: [Animals Notebook](https://github.com/0mn1h4ck3d/machine-learning/blob/main/Animals.ipynb)
