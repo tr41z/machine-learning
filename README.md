@@ -28,7 +28,7 @@
 Clone this repository:
 
 ```
-git clone `https://github.com/traiz-dev/machine-learning.git`
+git clone https://github.com/tr41z/machine-learning.git
 ```
 
 **Or open the project or notebook of interest in Google Colab.**
